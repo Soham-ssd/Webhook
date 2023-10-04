@@ -61,9 +61,9 @@
 
 <body>
   <div class="container">
-    <h1>V1</h1>
+    <h1>V2</h1>
     <h2>Testing webhooks with openshift</h2>
-    <p>This is a test webpage</p>
+    <p>Webpage after commiting changes</p>
     <p><a href="#">Visit Homepage</a></p>
   </div>
 </body>
